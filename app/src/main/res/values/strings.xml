@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lobby</string>
+    <string name="button">Button</string>
+    <string name="registro_academico">Registro Academico</string>
+    <string name="nome_do_filme">Nome do filme</string>
+    <string name="Curtida">Button</string>
+    <string name="Anterior">Button</string>
+    <string name="Proximo">Button</string>
+</resources>
